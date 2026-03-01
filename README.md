@@ -1,13 +1,13 @@
 # ✈️ British Airways Reviews – Interactive Tableau Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project transforms raw British Airways customer review data into a **fully interactive Tableau dashboard** that allows users to explore airline performance across countries, aircraft, traveler segments, and time.
 
 The dashboard was built as a portfolio project to demonstrate a **real-world end-to-end analytics workflow** and the ability to design self-service business intelligence tools.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 Airlines receive thousands of reviews containing valuable feedback on service quality, comfort, and overall experience.  
 However, raw review data makes it difficult to quickly answer key questions:
 
@@ -21,19 +21,19 @@ Stakeholders need a **single interactive dashboard** to explore these questions 
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](./Dashboard.png)
 
 ---
 
-## 🔗 Live Interactive Dashboard
+##  Live Interactive Dashboard
 👉 **View on Tableau Public:**  
 **[(https://public.tableau.com/app/profile/nirjala.prajapati/viz/BritishAirwaysRevuewDashboard/Dashboard1)]**
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 ### 1️⃣ British Airways Reviews
 Each row represents a customer review including:
@@ -53,7 +53,7 @@ Both tables were related in Tableau using the **Country field**.
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### Data Modeling
 - Connected multiple CSV datasets in Tableau
@@ -84,30 +84,30 @@ All dashboard visuals update automatically when the metric changes.
 
 ---
 
-## 📈 Dashboard Visualizations
+##  Dashboard Visualizations
 
-### 🌍 Average Metric by Country (Map)
+###  Average Metric by Country (Map)
 - Dynamic color map based on selected metric
 - Tooltip shows:
   - Average rating
   - Number of reviews
 - Map acts as a filter for other visuals
 
-### 📅 Rating Trend Over Time (Line Chart)
+###  Rating Trend Over Time (Line Chart)
 - Monthly trend of selected metric
 - Helps identify patterns and seasonality
 
-### ✈️ Metric by Aircraft (Dual Bar Chart)
+###  Metric by Aircraft (Dual Bar Chart)
 Compares:
 - Average rating by aircraft  
 - Number of reviews per aircraft  
 
-### 📊 Summary KPI Panel
+###  Summary KPI Panel
 Displays overall averages for all rating categories.
 
 ---
 
-## 🎛️ Dashboard Interactivity
+##  Dashboard Interactivity
 
 Users can:
 - Switch between rating metrics  
@@ -119,7 +119,7 @@ This creates a **self-service analytics experience**.
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated
+##  Tools & Skills Demonstrated
 
 **Tools**
 - Tableau Public
@@ -134,7 +134,7 @@ This creates a **self-service analytics experience**.
 
 ---
 
-## 💡 Insights Enabled
+##  Insights Enabled
 This dashboard allows stakeholders to:
 
 - Identify top and low performing countries  
@@ -145,7 +145,7 @@ This dashboard allows stakeholders to:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 Potential enhancements:
 - Sentiment analysis on review text
 - Airline comparison dashboard
