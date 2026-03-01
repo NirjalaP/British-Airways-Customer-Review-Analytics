@@ -29,7 +29,7 @@ Stakeholders need a **single interactive dashboard** to explore these questions 
 
 ## 🔗 Live Interactive Dashboard
 👉 **View on Tableau Public:**  
-**[[Add your Tableau Public link here](https://public.tableau.com/app/profile/nirjala.prajapati/viz/BritishAirwaysRevuewDashboard/Dashboard1)]**
+**[(https://public.tableau.com/app/profile/nirjala.prajapati/viz/BritishAirwaysRevuewDashboard/Dashboard1)]**
 
 ---
 
